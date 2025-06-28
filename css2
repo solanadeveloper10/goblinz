@@ -1,0 +1,56 @@
+﻿@font-face {
+  font-family: 'Alegreya Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/alegreyasans/v25/5aUz9_-1phKLFgshYDvh6Vwt3V0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Alegreya Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/alegreyasans/v25/5aUu9_-1phKLFgshYDvh6Vwt5eFImE0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Muli';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/muli/v33/7Aujp_0qiz-afTfcIyoiGtm2P0wG05Fz0e0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/muli/v33/7Aulp_0qiz-aVz7u3PJLcUMYOFmQkHkw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/muli/v33/7Aulp_0qiz-aVz7u3PJLcUMYOFnOkHkw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/muli/v33/7Aulp_0qiz-aVz7u3PJLcUMYOFkQl3kw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/muli/v33/7Aulp_0qiz-aVz7u3PJLcUMYOFkpl3kw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(s/muli/v33/7Aulp_0qiz-aVz7u3PJLcUMYOFlOl3kw.ttf) format('truetype');
+}

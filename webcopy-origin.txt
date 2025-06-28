@@ -1,0 +1,3676 @@
+Uri: https://assets.sendinblue.com/font/Roboto/Latin/bold/normal/3ef7cf158f310cf752d5ad08cd0e7e60.woff2
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\font\Roboto\Latin\bold\normal\3ef7cf158f310cf752d5ad08cd0e7e60.woff2
+Content Type: font/woff2
+
+Uri: https://assets.sendinblue.com/font/Roboto/Latin/bold/normal/ece3a1d82f18b60bcce0211725c476aa.woff
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\font\Roboto\Latin\bold\normal\ece3a1d82f18b60bcce0211725c476aa.woff
+Content Type: font/woff
+
+Uri: https://assets.sendinblue.com/font/Roboto/Latin/medium/normal/6e9caeeafb1f3491be3e32744bc30440.woff2
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\font\Roboto\Latin\medium\normal\6e9caeeafb1f3491be3e32744bc30440.woff2
+Content Type: font/woff2
+
+Uri: https://assets.sendinblue.com/font/Roboto/Latin/medium/normal/71501f0d8d5aa95960f6475d5487d4c2.woff
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\font\Roboto\Latin\medium\normal\71501f0d8d5aa95960f6475d5487d4c2.woff
+Content Type: font/woff
+
+Uri: https://assets.sendinblue.com/font/Roboto/Latin/normal/normal/25c678feafdc175a70922a116c9be3e7.woff
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\font\Roboto\Latin\normal\normal\25c678feafdc175a70922a116c9be3e7.woff
+Content Type: font/woff
+
+Uri: https://assets.sendinblue.com/font/Roboto/Latin/normal/normal/7529907e9eaf8ebb5220c5f9850e3811.woff2
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\font\Roboto\Latin\normal\normal\7529907e9eaf8ebb5220c5f9850e3811.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@400;700&family=Muli:ital,wght@0,300;0,400;0,600;0,700;0,800;1,400&display=swap
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/alegreyasans/v25/5aUu9_-1phKLFgshYDvh6Vwt5eFImE0.ttf
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\s\alegreyasans\v25\5aUu9_-1phKLFgshYDvh6Vwt5eFImE0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/alegreyasans/v25/5aUz9_-1phKLFgshYDvh6Vwt3V0.ttf
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\s\alegreyasans\v25\5aUz9_-1phKLFgshYDvh6Vwt3V0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v33/7Aujp_0qiz-afTfcIyoiGtm2P0wG05Fz0e0.ttf
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\s\muli\v33\7Aujp_0qiz-afTfcIyoiGtm2P0wG05Fz0e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v33/7Aulp_0qiz-aVz7u3PJLcUMYOFkpl3kw.ttf
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\s\muli\v33\7Aulp_0qiz-aVz7u3PJLcUMYOFkpl3kw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v33/7Aulp_0qiz-aVz7u3PJLcUMYOFkQl3kw.ttf
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\s\muli\v33\7Aulp_0qiz-aVz7u3PJLcUMYOFkQl3kw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v33/7Aulp_0qiz-aVz7u3PJLcUMYOFlOl3kw.ttf
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\s\muli\v33\7Aulp_0qiz-aVz7u3PJLcUMYOFlOl3kw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v33/7Aulp_0qiz-aVz7u3PJLcUMYOFmQkHkw.ttf
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\s\muli\v33\7Aulp_0qiz-aVz7u3PJLcUMYOFmQkHkw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v33/7Aulp_0qiz-aVz7u3PJLcUMYOFnOkHkw.ttf
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\s\muli\v33\7Aulp_0qiz-aVz7u3PJLcUMYOFnOkHkw.ttf
+Content Type: font/ttf
+
+Uri: https://goblinzstudio.com/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/comments/feed/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://goblinzstudio.com/feed/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://goblinzstudio.com/game/a-long-way-down/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\a-long-way-down\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/as-far-as-the-eye/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\as-far-as-the-eye\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/banners-of-ruin/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\banners-of-ruin\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/beneath-oresa/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\beneath-oresa\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/day-of-the-shell/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\day-of-the-shell\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/decks-of-the-damned/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\decks-of-the-damned\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/defend-the-rook/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\defend-the-rook\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/diluvian-winds/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\diluvian-winds\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/dungeon-rushers/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\dungeon-rushers\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/dungeon-tycoon/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\dungeon-tycoon\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/fantastic-haven/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\fantastic-haven\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/heros-hour/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\heros-hour\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/irisandthegiant/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\irisandthegiant\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/knightica/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\knightica\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/legend-of-keepers/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\legend-of-keepers\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/microtopia/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\microtopia\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/mini-settlers/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\mini-settlers\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/neongarten/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\neongarten\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/neurodeck/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\neurodeck\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/oaken/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\oaken\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/overboss/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\overboss\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/ozymandias/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\ozymandias\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/racine/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\racine\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/robothorium/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\robothorium\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/sandwalkers/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\sandwalkers\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/seeds-of-resilience/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\seeds-of-resilience\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/shogun-showdown/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\shogun-showdown\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/sigma-theory/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\sigma-theory\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/smash-it-wild/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\smash-it-wild\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/snowtopia-game/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\snowtopia-game\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/sol-cesto/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\sol-cesto\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/spin-hero/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\spin-hero\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/synergy/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\synergy\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/terraformers/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\terraformers\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/game/the-executive-a-movie-industry-tycoon/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\game\the-executive-a-movie-industry-tycoon\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/goblinz-testers-club/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\goblinz-testers-club\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/presskit/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\presskit\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/privacy-policy/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/privacy-policy/feed/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\privacy-policy\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://goblinzstudio.com/publishing/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\publishing\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/team/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\team\index.htm
+Content Type: text/html
+
+Uri: https://goblinzstudio.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=5.8.10
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\plugins\cookie-notice\css\front.min.css
+Content Type: text/css
+
+Uri: https://goblinzstudio.com/wp-content/plugins/cookie-notice/js/front.min.js?ver=1.3.2
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\plugins\cookie-notice\js\front.min.js
+Content Type: application/javascript
+
+Uri: https://goblinzstudio.com/wp-content/plugins/mailin/css/mailin-front.css?ver=5.8.10
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\plugins\mailin\css\mailin-front.css
+Content Type: text/css
+
+Uri: https://goblinzstudio.com/wp-content/plugins/mailin/img/flags/ad.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\plugins\mailin\img\flags\ad.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/plugins/mailin/img/flags/fr.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\plugins\mailin\img\flags\fr.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/plugins/mailin/js/mailin-front.js?ver=1676888444
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\plugins\mailin\js\mailin-front.js
+Content Type: application/javascript
+
+Uri: https://goblinzstudio.com/wp-content/themes/goblinz-theme/assets/css/main.css?ver=1.0
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\themes\goblinz-theme\assets\css\main.css
+Content Type: text/css
+
+Uri: https://goblinzstudio.com/wp-content/themes/goblinz-theme/assets/img/footer-bg-01.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\themes\goblinz-theme\assets\img\footer-bg-01.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/themes/goblinz-theme/assets/img/header-background-1920x660-default.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\themes\goblinz-theme\assets\img\header-background-1920x660-default.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/themes/goblinz-theme/assets/img/logo-appstore.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\themes\goblinz-theme\assets\img\logo-appstore.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/themes/goblinz-theme/assets/img/logo-epic.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\themes\goblinz-theme\assets\img\logo-epic.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/themes/goblinz-theme/assets/img/logo-gog.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\themes\goblinz-theme\assets\img\logo-gog.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/themes/goblinz-theme/assets/img/logo-googleplay.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\themes\goblinz-theme\assets\img\logo-googleplay.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/themes/goblinz-theme/assets/img/logo-ps4.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\themes\goblinz-theme\assets\img\logo-ps4.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/themes/goblinz-theme/assets/img/logo-ps5.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\themes\goblinz-theme\assets\img\logo-ps5.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/themes/goblinz-theme/assets/img/logo-stadia.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\themes\goblinz-theme\assets\img\logo-stadia.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/themes/goblinz-theme/assets/img/logo-steam.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\themes\goblinz-theme\assets\img\logo-steam.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/themes/goblinz-theme/assets/img/logo-switch.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\themes\goblinz-theme\assets\img\logo-switch.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/themes/goblinz-theme/assets/img/logo-xbox.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\themes\goblinz-theme\assets\img\logo-xbox.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/themes/goblinz-theme/assets/img/logo_goblinz.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\themes\goblinz-theme\assets\img\logo_goblinz.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/themes/goblinz-theme/assets/js/main.bundle.js?ver=1.0
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\themes\goblinz-theme\assets\js\main.bundle.js
+Content Type: application/javascript
+
+Uri: https://goblinzstudio.com/wp-content/themes/goblinz-theme/assets/js/TweenMax.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\themes\goblinz-theme\assets\js\TweenMax.min.js
+Content Type: application/javascript
+
+Uri: https://goblinzstudio.com/wp-content/themes/goblinz-theme/style.css?ver=1.0
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\themes\goblinz-theme\style.css
+Content Type: text/css
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2016/01/cover_dungeonrushers.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2016\01\cover_dungeonrushers.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2018/02/cover_ro.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2018\02\cover_ro.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2018/03/cover_sor.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2018\03\cover_sor.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2019/01/cover_sigma.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2019\01\cover_sigma.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2019/02/cover_alwd.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2019\02\cover_alwd.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2019/03/cover_iris.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2019\03\cover_iris.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2019/04/screenshot_mecas-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2019\04\screenshot_mecas-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2019/04/screenshot_mecas.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2019\04\screenshot_mecas.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2019/04/screenshot_sort-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2019\04\screenshot_sort-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2019/04/screenshot_sort.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2019\04\screenshot_sort.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2019/04/StarterDecks_Slaveholder-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2019\04\StarterDecks_Slaveholder-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2019/04/StarterDecks_Slaveholder.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2019\04\StarterDecks_Slaveholder.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2019/05/afate2-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2019\05\afate2-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2019/05/afate2.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2019\05\afate2.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2019/05/afate4-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2019\05\afate4-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2019/05/afate4.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2019\05\afate4.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2019/05/afate7.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2019\05\afate7.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2019/05/ezgif-7-07caf2398e2d.gif
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2019\05\ezgif-7-07caf2398e2d.gif
+Content Type: image/gif
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2019/05/featured_image_site.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2019\05\featured_image_site.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2019/05/ss_43d76f1058bccb62de4955ac0887cc9723858cc4-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2019\05\ss_43d76f1058bccb62de4955ac0887cc9723858cc4-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2019/05/ss_43d76f1058bccb62de4955ac0887cc9723858cc4.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2019\05\ss_43d76f1058bccb62de4955ac0887cc9723858cc4.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2019/05/ss_6b73d5d99140b6a5ad78de4778b52ecbe45e16d6.1920x1080-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2019\05\ss_6b73d5d99140b6a5ad78de4778b52ecbe45e16d6.1920x1080-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2019/05/ss_6b73d5d99140b6a5ad78de4778b52ecbe45e16d6.1920x1080.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2019\05\ss_6b73d5d99140b6a5ad78de4778b52ecbe45e16d6.1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2019/05/ss_e2c20925a2ab5e024e414a9313396d3b2ae9c4bd.1920x1080-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2019\05\ss_e2c20925a2ab5e024e414a9313396d3b2ae9c4bd.1920x1080-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2019/05/ss_e2c20925a2ab5e024e414a9313396d3b2ae9c4bd.1920x1080.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2019\05\ss_e2c20925a2ab5e024e414a9313396d3b2ae9c4bd.1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/04/cover-legend-of-keepers.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\04\cover-legend-of-keepers.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/04/cropped-favicon-180x180.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\04\cropped-favicon-180x180.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/04/cropped-favicon-192x192.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\04\cropped-favicon-192x192.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/04/cropped-favicon-32x32.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\04\cropped-favicon-32x32.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/04/gamepage-background-fade-bottom.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\04\gamepage-background-fade-bottom.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/04/gif_web_1.gif
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\04\gif_web_1.gif
+Content Type: image/gif
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/04/gif_web_2.gif
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\04\gif_web_2.gif
+Content Type: image/gif
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/04/header-background-1920x660-default.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\04\header-background-1920x660-default.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/04/image-4-300x184.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\04\image-4-300x184.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/04/image-4.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\04\image-4.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/04/ingame1-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\04\ingame1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/04/ingame1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\04\ingame1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/04/ingame2.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\04\ingame2.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/04/keyart_1080p-300x184.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\04\keyart_1080p-300x184.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/04/keyart_1080p.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\04\keyart_1080p.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/04/Legend_Of_Keepers_Logo-1-300x203.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\04\Legend_Of_Keepers_Logo-1-300x203.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/04/Legend_Of_Keepers_Logo-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\04\Legend_Of_Keepers_Logo-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/04/Legend_Of_Keepers_Logo.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\04\Legend_Of_Keepers_Logo.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/04/logo_goblinz-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\04\logo_goblinz-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/04/lok-scaled.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\04\lok-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/04/sq_joh.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\04\sq_joh.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/10-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\10-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/10.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\10.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/11.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\11.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/2-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\2-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/2.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\2.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/285x390_website_newlogo.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\285x390_website_newlogo.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/3-1-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\3-1-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/3-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\3-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/4-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\4-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/4.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\4.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/5-1-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\5-1-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/5-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\5-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/500x400_keyart-300x240.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\500x400_keyart-300x240.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/500x400_keyart.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\500x400_keyart.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/8-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\8-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/8.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\8.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/a1-1-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\a1-1-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/a1-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\a1-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/a1-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\a1-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/a1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\a1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/a2-1-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\a2-1-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/a2-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\a2-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/a2-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\a2-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/a2.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\a2.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/a3-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\a3-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/a3.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\a3.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/a4-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\a4-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/a4.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\a4.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/a5-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\a5-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/a5.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\a5.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/a6-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\a6-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/a6.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\a6.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/afate1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\afate1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/afate2-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\afate2-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/Alwd_Boxshot_600x900-200x300.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\Alwd_Boxshot_600x900-200x300.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/Alwd_Boxshot_600x900.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\Alwd_Boxshot_600x900.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/Alwd_HeaderImage_460x215-300x140.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\Alwd_HeaderImage_460x215-300x140.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/Alwd_HeaderImage_460x215.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\Alwd_HeaderImage_460x215.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/Alwd_LogoWhite-1-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\Alwd_LogoWhite-1-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/Alwd_LogoWhite-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\Alwd_LogoWhite-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/Alwd_LogoWhite.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\Alwd_LogoWhite.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/artwork-iris-L2-NoLogo-scaled.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\artwork-iris-L2-NoLogo-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/backgroundimage_website.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\backgroundimage_website.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/BANNER_1920_1080_-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\BANNER_1920_1080_-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/BANNER_1920_1080_.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\BANNER_1920_1080_.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/bg_fade_bottom-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\bg_fade_bottom-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/bg_fade_bottom-2.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\bg_fade_bottom-2.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/bg_fade_bottom-3.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\bg_fade_bottom-3.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/bottombackgroundfade_website2.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\bottombackgroundfade_website2.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/cover_image-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\cover_image-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/cover_image.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\cover_image.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/featuredimage_website2.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\featuredimage_website2.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/image-16-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\image-16-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/image-16.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\image-16.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/image-8484-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\image-8484-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/image-8484.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\image-8484.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/image-fdfsf-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\image-fdfsf-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/image-fdfsf.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\image-fdfsf.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/iris.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\iris.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/iris_com_640x360-logo-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\iris_com_640x360-logo-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/iris_com_640x360-logo-300x168.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\iris_com_640x360-logo-300x168.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/iris_com_640x360-logo-300x169.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\iris_com_640x360-logo-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/iris_com_640x360-logo.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\iris_com_640x360-logo.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/iris_com_640x360-logo.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\iris_com_640x360-logo.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/library_logo-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\library_logo-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/library_logo.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\library_logo.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/LOGO-Unexpected-Black-grand-300x65.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\LOGO-Unexpected-Black-grand-300x65.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/LOGO-Unexpected-Black-grand.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\LOGO-Unexpected-Black-grand.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/LOGO-Unexpected-White-grand-300x65.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\LOGO-Unexpected-White-grand-300x65.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/LOGO-Unexpected-White-grand.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\LOGO-Unexpected-White-grand.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/LOGO_Flat01_Alpha-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\LOGO_Flat01_Alpha-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/LOGO_Flat01_Alpha-300x138.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\LOGO_Flat01_Alpha-300x138.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/LOGO_Flat01_Alpha.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\LOGO_Flat01_Alpha.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/LOGO_Flat02_Alpha-300x138.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\LOGO_Flat02_Alpha-300x138.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/LOGO_Flat02_Alpha.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\LOGO_Flat02_Alpha.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/Logo_SOR-300x168.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\Logo_SOR-300x168.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/Logo_SOR.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\Logo_SOR.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/screen_1-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\screen_1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/screen_1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\screen_1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/screen_2-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\screen_2-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/screen_2.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\screen_2.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/screen_3-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\screen_3-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/screen_3.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\screen_3.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/screen_4-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\screen_4-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/screen_4.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\screen_4.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/screen_5.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\screen_5.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/screen_appeal2-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\screen_appeal2-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/screen_appeal2.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\screen_appeal2.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/screen_appeal3.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\screen_appeal3.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/seeds1-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\seeds1-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/seeds1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\seeds1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/seeds2-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\seeds2-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/seeds2.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\seeds2.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/seeds3-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\seeds3-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/seeds3.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\seeds3.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/seeds4.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\seeds4.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/seeds8-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\seeds8-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/seeds8.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\seeds8.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/Snowtopia_LogoV2-300x153.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\Snowtopia_LogoV2-300x153.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/Snowtopia_LogoV2.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\Snowtopia_LogoV2.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/snowtopia_screen_2-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\snowtopia_screen_2-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/snowtopia_screen_2.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\snowtopia_screen_2.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/Snowtopia_V05.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\Snowtopia_V05.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/sq_bastien.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\sq_bastien.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/sq_chris.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\sq_chris.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/sq_jerome.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\sq_jerome.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/sq_nicolas.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\sq_nicolas.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/Stormland-Key-Art-FULLHD-300x169.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\Stormland-Key-Art-FULLHD-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/Stormland-Key-Art-FULLHD.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\Stormland-Key-Art-FULLHD.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/tavroxgameslogo-202x300.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\tavroxgameslogo-202x300.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/tavroxgameslogo.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\tavroxgameslogo.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/tech_tree-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\tech_tree-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/05/tech_tree.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\05\tech_tree.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/01-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\01-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/01.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\01.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/02-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\02-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/02.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\02.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/04.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\04.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/BannersOfRuin_Logo_TransparentBG_4702x669-1-300x43.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\BannersOfRuin_Logo_TransparentBG_4702x669-1-300x43.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/BannersOfRuin_Logo_TransparentBG_4702x669-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\BannersOfRuin_Logo_TransparentBG_4702x669-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/BannersOfRuin_Logo_TransparentBG_4702x669.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\BannersOfRuin_Logo_TransparentBG_4702x669.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/Bear-300x213.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\Bear-300x213.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/Bear.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\Bear.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/bg_fade_bottom-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\bg_fade_bottom-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/bg_fade_bottom-2.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\bg_fade_bottom-2.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/bg_fade_bottom-3.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\bg_fade_bottom-3.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/bg_fade_bottom.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\bg_fade_bottom.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/BoR_LibraryAsset_600x900-200x300.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\BoR_LibraryAsset_600x900-200x300.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/BoR_LibraryAsset_600x900.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\BoR_LibraryAsset_600x900.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/cover_bor.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\cover_bor.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/header_background-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\header_background-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/header_background-2.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\header_background-2.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/header_background-3.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\header_background-3.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/header_background.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\header_background.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/HeroCapsule2_1920x620-300x97.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\HeroCapsule2_1920x620-300x97.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/HeroCapsule2_1920x620.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\HeroCapsule2_1920x620.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/logo-300x210.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\logo-300x210.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/logo.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\logo.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/Logofond-300x142.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\Logofond-300x142.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/Logofond.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\Logofond.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/logoSigma-1-300x48.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\logoSigma-1-300x48.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/logoSigma-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\logoSigma-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/logoSigma.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\logoSigma.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/logo_goblinz-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\logo_goblinz-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/mathieu.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\mathieu.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/MonteBearo_TextOnly_WhiteTransparent_2048x828-300x121.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\MonteBearo_TextOnly_WhiteTransparent_2048x828-300x121.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/MonteBearo_TextOnly_WhiteTransparent_2048x828.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\MonteBearo_TextOnly_WhiteTransparent_2048x828.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/Screenshot_01-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\Screenshot_01-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/Screenshot_01.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\Screenshot_01.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/Screenshot_04-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\Screenshot_04-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/Screenshot_04.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\Screenshot_04.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/Screenshot_05.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\Screenshot_05.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/Screenshot_06-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\Screenshot_06-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/Screenshot_06.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\Screenshot_06.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/Screenshot_07-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\Screenshot_07-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/Screenshot_07.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\Screenshot_07.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/Screenshot_08-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\Screenshot_08-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/Screenshot_08.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\Screenshot_08.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/Screenshot_09-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\Screenshot_09-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/Screenshot_09.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\Screenshot_09.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/screen_campaign-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\screen_campaign-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/screen_campaign.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\screen_campaign.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/screen_craft-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\screen_craft-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/screen_craft.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\screen_craft.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/screen_explo_theme_2.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\screen_explo_theme_2.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/screen_fight_theme_3-768x434.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\screen_fight_theme_3-768x434.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/screen_fight_theme_3.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\screen_fight_theme_3.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/TavernBear-300x169.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\TavernBear-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/06/TavernBear-scaled.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\06\TavernBear-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/10/2023-02-04-13_44_10-Terraformers-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\10\2023-02-04-13_44_10-Terraformers-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/10/2023-02-04-13_44_10-Terraformers.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\10\2023-02-04-13_44_10-Terraformers.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/10/AsteroidLab_Logo_100px.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\10\AsteroidLab_Logo_100px.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/10/AsteroidLab_Logo_100px_white.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\10\AsteroidLab_Logo_100px_white.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/10/background_website.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\10\background_website.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/10/Cyndie.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\10\Cyndie.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/10/Featured-image_website.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\10\Featured-image_website.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/10/gamepage-background-fade-bottom.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\10\gamepage-background-fade-bottom.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/10/Terraformers-07_02_2023-18_21_56-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\10\Terraformers-07_02_2023-18_21_56-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/10/Terraformers-07_02_2023-18_21_56.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\10\Terraformers-07_02_2023-18_21_56.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/10/Terraformers-07_02_2023-18_51_36-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\10\Terraformers-07_02_2023-18_51_36-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/10/Terraformers-07_02_2023-18_51_36.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\10\Terraformers-07_02_2023-18_51_36.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/10/Terraformers-07_02_2023-19_09_06.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\10\Terraformers-07_02_2023-19_09_06.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/10/Terraformers-07_02_2023-19_30_57-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\10\Terraformers-07_02_2023-19_30_57-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/10/Terraformers-07_02_2023-19_30_57.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\10\Terraformers-07_02_2023-19_30_57.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/10/Terraformers-07_02_2023-19_51_04-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\10\Terraformers-07_02_2023-19_51_04-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/10/Terraformers-07_02_2023-19_51_04.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\10\Terraformers-07_02_2023-19_51_04.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/10/Terraformers-07_02_2023-19_53_58-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\10\Terraformers-07_02_2023-19_53_58-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/10/Terraformers-07_02_2023-19_53_58.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\10\Terraformers-07_02_2023-19_53_58.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/10/Terraformers-31_01_2023-19_59_47-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\10\Terraformers-31_01_2023-19_59_47-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/10/Terraformers-31_01_2023-19_59_47.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\10\Terraformers-31_01_2023-19_59_47.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/10/Terraformers-31_01_2023-21_24_28-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\10\Terraformers-31_01_2023-21_24_28-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/10/Terraformers-31_01_2023-21_24_28.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\10\Terraformers-31_01_2023-21_24_28.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/10/terraformers_logo_transparent-300x44.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\10\terraformers_logo_transparent-300x44.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/10/terraformers_logo_transparent.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\10\terraformers_logo_transparent.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/10/terraformers_logo_white-1-300x44.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\10\terraformers_logo_white-1-300x44.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/10/terraformers_logo_white-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\10\terraformers_logo_white-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2020/10/terraformers_logo_white.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2020\10\terraformers_logo_white.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/01/branded_keyart_16x9-1024x577.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\01\branded_keyart_16x9-1024x577.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/01/branded_keyart_16x9-1536x865.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\01\branded_keyart_16x9-1536x865.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/01/branded_keyart_16x9-300x169.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\01\branded_keyart_16x9-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/01/branded_keyart_16x9-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\01\branded_keyart_16x9-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/01/branded_keyart_16x9.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\01\branded_keyart_16x9.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/02/GoblinzPublishing_Persos-1024x576.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\02\GoblinzPublishing_Persos-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/02/GoblinzPublishing_Persos-1536x864.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\02\GoblinzPublishing_Persos-1536x864.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/02/GoblinzPublishing_Persos-300x169.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\02\GoblinzPublishing_Persos-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/02/GoblinzPublishing_Persos-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\02\GoblinzPublishing_Persos-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/02/GoblinzPublishing_Persos.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\02\GoblinzPublishing_Persos.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/03/arte1-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\03\arte1-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/03/arte1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\03\arte1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/03/Diluvian_Winds_BG-1-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\03\Diluvian_Winds_BG-1-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/03/Diluvian_Winds_BG-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\03\Diluvian_Winds_BG-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/03/DW_KeyArt-300x169.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\03\DW_KeyArt-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/03/DW_KeyArt.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\03\DW_KeyArt.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/03/expe2-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\03\expe2-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/03/expe2.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\03\expe2.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/03/Featured-image_website-1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\03\Featured-image_website-1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/03/fly1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\03\fly1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/03/gamepage-background-fade-bottomDW.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\03\gamepage-background-fade-bottomDW.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/03/Logo_Diluvian_Winds.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\03\Logo_Diluvian_Winds.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/03/marchand1-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\03\marchand1-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/03/marchand1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\03\marchand1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/03/new2-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\03\new2-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/03/new2.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\03\new2.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/03/Screen-_20240222_151448-19-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\03\Screen-_20240222_151448-19-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/03/Screen-_20240222_151448-19.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\03\Screen-_20240222_151448-19.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/03/tree1-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\03\tree1-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/03/tree1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\03\tree1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/06/Area2-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\06\Area2-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/06/Area2.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\06\Area2.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/06/Area3-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\06\Area3-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/06/Area3.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\06\Area3.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/06/Area4-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\06\Area4-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/06/Area4.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\06\Area4.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/06/Area5-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\06\Area5-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/06/Area5.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\06\Area5.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/06/Featured-image_website.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\06\Featured-image_website.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/06/gamepage-background-fade-bottomDTR.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\06\gamepage-background-fade-bottomDTR.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/06/KeyArt_Logo_1920x1080-300x169.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\06\KeyArt_Logo_1920x1080-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/06/KeyArt_Logo_1920x1080.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\06\KeyArt_Logo_1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/06/LibraryLogo-1-300x150.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\06\LibraryLogo-1-300x150.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/06/LibraryLogo-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\06\LibraryLogo-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/06/LibraryLogo.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\06\LibraryLogo.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/06/LvlUp-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\06\LvlUp-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/06/LvlUp.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\06\LvlUp.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/06/page_bg_raw_1920-1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\06\page_bg_raw_1920-1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/06/page_bg_raw_1920.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\06\page_bg_raw_1920.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/06/Rewards-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\06\Rewards-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/06/Rewards.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\06\Rewards.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/285x390_website.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\285x390_website.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Featured-image_website.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Featured-image_website.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/gamepage-background-fade-bottom2.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\gamepage-background-fade-bottom2.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/gamepage-background-fade-bottom3.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\gamepage-background-fade-bottom3.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/KeyArt_Logo-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\KeyArt_Logo-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/KeyArt_Logo.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\KeyArt_Logo.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/KeyArt_NoLogo.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\KeyArt_NoLogo.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/logo_oaken_white-300x149.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\logo_oaken_white-300x149.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/logo_oaken_white.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\logo_oaken_white.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Logo_Sandwalkers_FX-300x110.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Logo_Sandwalkers_FX-300x110.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Logo_Sandwalkers_FX.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Logo_Sandwalkers_FX.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Logo_Sandwalkers_FX_OuterGlow-1-300x113.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Logo_Sandwalkers_FX_OuterGlow-1-300x113.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Logo_Sandwalkers_FX_OuterGlow-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Logo_Sandwalkers_FX_OuterGlow-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Logo_Sandwalkers_FX_OuterGlow_8000.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Logo_Sandwalkers_FX_OuterGlow_8000.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Oaken_Keyart_1920x1080_nologo-300x169.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Oaken_Keyart_1920x1080_nologo-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Oaken_Keyart_1920x1080_nologo.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Oaken_Keyart_1920x1080_nologo.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Photo-redimensionnee-pour-Slack-scaled.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Photo-redimensionnee-pour-Slack-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Sceenshot-01.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Sceenshot-01.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Screenshot-01-1-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Screenshot-01-1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Screenshot-01-1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Screenshot-01-1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Screenshot-02-1-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Screenshot-02-1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Screenshot-02-1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Screenshot-02-1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Screenshot-02-2-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Screenshot-02-2-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Screenshot-02-2.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Screenshot-02-2.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Screenshot-03-1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Screenshot-03-1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Screenshot-03-2-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Screenshot-03-2-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Screenshot-03-2.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Screenshot-03-2.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Screenshot-04-1-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Screenshot-04-1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Screenshot-04-1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Screenshot-04-1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Screenshot-05-1-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Screenshot-05-1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Screenshot-05-1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Screenshot-05-1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Screenshot-06-1-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Screenshot-06-1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Screenshot-06-1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Screenshot-06-1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Screenshot-07-1-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Screenshot-07-1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Screenshot-07-1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Screenshot-07-1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Screenshot-07-2-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Screenshot-07-2-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Screenshot-07-2.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Screenshot-07-2.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Screenshot-08-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Screenshot-08-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Screenshot-08.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Screenshot-08.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Screenshot-10-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Screenshot-10-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Screenshot-10.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Screenshot-10.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Screenshot-11-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Screenshot-11-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Screenshot-11.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Screenshot-11.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/08/Toma.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\08\Toma.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/09/Featured-image_website_HH.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\09\Featured-image_website_HH.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/09/gamepage-background-fade-bottom_HH.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\09\gamepage-background-fade-bottom_HH.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/09/Heros-Hour_Logo-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\09\Heros-Hour_Logo-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/09/Heros-Hour_Logo.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\09\Heros-Hour_Logo.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/09/logo-7.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\09\logo-7.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/09/Screenshot-03-1-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\09\Screenshot-03-1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/09/Screenshot-03-1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\09\Screenshot-03-1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/09/Screenshot_04-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\09\Screenshot_04-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/09/Screenshot_04.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\09\Screenshot_04.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/09/Screenshot_06-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\09\Screenshot_06-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/09/Screenshot_06.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\09\Screenshot_06.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/09/Screenshot_08-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\09\Screenshot_08-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/09/Screenshot_08.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\09\Screenshot_08.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/09/Screenshot_09-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\09\Screenshot_09-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/09/Screenshot_09.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\09\Screenshot_09.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/09/Screenshot_10.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\09\Screenshot_10.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/09/Screenshot_12-768x507.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\09\Screenshot_12-768x507.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/09/Screenshot_12.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\09\Screenshot_12.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/09/ss_50cfda39ae23e66f5e53570c4170c272cac65604.1920x1080-1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\09\ss_50cfda39ae23e66f5e53570c4170c272cac65604.1920x1080-1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/10/gamepage-background-fade-bottom.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\10\gamepage-background-fade-bottom.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/10/Ozymandias_NoLogo-1-300x169.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\10\Ozymandias_NoLogo-1-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/10/Ozymandias_NoLogo-1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\10\Ozymandias_NoLogo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/10/Ozymandias_NoLogo.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\10\Ozymandias_NoLogo.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/10/Ozy_Featured-Image.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\10\Ozy_Featured-Image.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/10/Ozy_Logo2-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\10\Ozy_Logo2-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/10/Ozy_Logo2.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\10\Ozy_Logo2.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/10/Screenshot-01-1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\10\Screenshot-01-1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/10/Screenshot-02-1-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\10\Screenshot-02-1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/10/Screenshot-02-1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\10\Screenshot-02-1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/10/Screenshot-03-1-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\10\Screenshot-03-1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/10/Screenshot-03-1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\10\Screenshot-03-1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/10/Screenshot-04-1-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\10\Screenshot-04-1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/10/Screenshot-04-1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\10\Screenshot-04-1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/10/Screenshot-05-1-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\10\Screenshot-05-1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2021/10/Screenshot-05-1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2021\10\Screenshot-05-1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/04/Photo-de-Profil-Galdric.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\04\Photo-de-Profil-Galdric.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/05/20220506_145759-scaled.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\05\20220506_145759-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/06/01_LargeCityUIon_EN.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\06\01_LargeCityUIon_EN.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/06/02_EarlyCityUIon_EN-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\06\02_EarlyCityUIon_EN-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/06/02_EarlyCityUIon_EN.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\06\02_EarlyCityUIon_EN.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/06/03_ProductionBuilding_EN-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\06\03_ProductionBuilding_EN-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/06/03_ProductionBuilding_EN.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\06\03_ProductionBuilding_EN.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/06/04_BuildingPositionning_EN-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\06\04_BuildingPositionning_EN-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/06/04_BuildingPositionning_EN.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\06\04_BuildingPositionning_EN.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/06/05_Research_EN-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\06\05_Research_EN-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/06/05_Research_EN.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\06\05_Research_EN.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/06/06_ExplorationMap_EN-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\06\06_ExplorationMap_EN-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/06/06_ExplorationMap_EN.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\06\06_ExplorationMap_EN.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/06/11_BookOfKnowledge_EN-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\06\11_BookOfKnowledge_EN-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/06/11_BookOfKnowledge_EN.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\06\11_BookOfKnowledge_EN.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/06/1619656672465.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\06\1619656672465.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/06/B612_20210414_105828_001-e1654267738790.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\06\B612_20210414_105828_001-e1654267738790.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/06/Featured-image_website.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\06\Featured-image_website.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/06/Keyart_SY-1-300x169.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\06\Keyart_SY-1-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/06/Keyart_SY-1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\06\Keyart_SY-1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/06/Keyart_SY.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\06\Keyart_SY.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/06/Keyart_SY_Logo-300x169.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\06\Keyart_SY_Logo-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/06/Keyart_SY_Logo.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\06\Keyart_SY_Logo.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/06/Logo_Synergy-1-300x142.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\06\Logo_Synergy-1-300x142.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/06/Logo_Synergy-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\06\Logo_Synergy-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/06/Logo_Synergy.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\06\Logo_Synergy.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/06/SY_Bottom-background.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\06\SY_Bottom-background.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/08/1920x1080_Overboss_NoLogo-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\08\1920x1080_Overboss_NoLogo-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/08/1920x1080_Overboss_NoLogo.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\08\1920x1080_Overboss_NoLogo.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/08/Capture-decran-2022-08-02-172238.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\08\Capture-decran-2022-08-02-172238.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/08/Featured-image_website_Overboss.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\08\Featured-image_website_Overboss.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/08/gamepage-background-fade-bottom_OB.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\08\gamepage-background-fade-bottom_OB.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/08/image-93-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\08\image-93-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/08/image-93.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\08\image-93.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/08/image-94-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\08\image-94-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/08/image-94.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\08\image-94.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/08/in-game-02-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\08\in-game-02-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/08/in-game-02.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\08\in-game-02.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/08/in-game-05-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\08\in-game-05-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/08/in-game-05.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\08\in-game-05.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/08/Logo_Overboss-300x178.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\08\Logo_Overboss-300x178.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/08/Logo_Overboss.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\08\Logo_Overboss.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/09/Featured-image_website.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\09\Featured-image_website.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/09/gamepage-background-fade-bottom.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\09\gamepage-background-fade-bottom.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/09/Racine_Key-Art_1920x1080_No-1-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\09\Racine_Key-Art_1920x1080_No-1-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/09/Racine_Key-Art_1920x1080_No-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\09\Racine_Key-Art_1920x1080_No-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/09/Racine_Key-Art_1920x1080_No.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\09\Racine_Key-Art_1920x1080_No.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/09/Racine_logo-1-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\09\Racine_logo-1-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/09/Racine_logo-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\09\Racine_logo-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/09/Racine_logo.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\09\Racine_logo.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/09/ss_5bc654d7d831d4d78e722930223d58d69b8da01f.1920x1080-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\09\ss_5bc654d7d831d4d78e722930223d58d69b8da01f.1920x1080-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/09/ss_5bc654d7d831d4d78e722930223d58d69b8da01f.1920x1080.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\09\ss_5bc654d7d831d4d78e722930223d58d69b8da01f.1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/09/ss_635744d23f1200630eec9eb5912bfa9591c56856.1920x1080-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\09\ss_635744d23f1200630eec9eb5912bfa9591c56856.1920x1080-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/09/ss_635744d23f1200630eec9eb5912bfa9591c56856.1920x1080.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\09\ss_635744d23f1200630eec9eb5912bfa9591c56856.1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/09/ss_6ecab99b6114fd058df704d058262f637a99de4b.1920x1080-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\09\ss_6ecab99b6114fd058df704d058262f637a99de4b.1920x1080-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/09/ss_6ecab99b6114fd058df704d058262f637a99de4b.1920x1080.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\09\ss_6ecab99b6114fd058df704d058262f637a99de4b.1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/09/ss_7c514c6e7af9915c7eebd8d4dab8acb4e3a7f57a.1920x1080-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\09\ss_7c514c6e7af9915c7eebd8d4dab8acb4e3a7f57a.1920x1080-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/09/ss_7c514c6e7af9915c7eebd8d4dab8acb4e3a7f57a.1920x1080.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\09\ss_7c514c6e7af9915c7eebd8d4dab8acb4e3a7f57a.1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/09/ss_8a007f5b275396c56bb10bdbc39dac74692761e3.1920x1080.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\09\ss_8a007f5b275396c56bb10bdbc39dac74692761e3.1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/09/ss_afe4aa8e9e2db661c4d4cd27bd80907fbf302202.1920x1080-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\09\ss_afe4aa8e9e2db661c4d4cd27bd80907fbf302202.1920x1080-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/09/ss_afe4aa8e9e2db661c4d4cd27bd80907fbf302202.1920x1080.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\09\ss_afe4aa8e9e2db661c4d4cd27bd80907fbf302202.1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/09/ss_b892f862e08123f9ac002d25e1fed10197200e97.1920x1080-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\09\ss_b892f862e08123f9ac002d25e1fed10197200e97.1920x1080-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/09/ss_b892f862e08123f9ac002d25e1fed10197200e97.1920x1080.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\09\ss_b892f862e08123f9ac002d25e1fed10197200e97.1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/12/Featured-image_website.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\12\Featured-image_website.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/12/gamepage-background-fade-bottom.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\12\gamepage-background-fade-bottom.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/12/Shogun-Showdown_Key-Art_NoLogo-1-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\12\Shogun-Showdown_Key-Art_NoLogo-1-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/12/Shogun-Showdown_Key-Art_NoLogo-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\12\Shogun-Showdown_Key-Art_NoLogo-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/12/Shogun-Showdown_Key-Art_NoLogo.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\12\Shogun-Showdown_Key-Art_NoLogo.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/12/Shogun-Showdown_Logo-1-300x111.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\12\Shogun-Showdown_Logo-1-300x111.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/12/Shogun-Showdown_Logo-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\12\Shogun-Showdown_Logo-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/12/ShogunTitleText.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\12\ShogunTitleText.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/12/Sho_1-768x430.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\12\Sho_1-768x430.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/12/Sho_1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\12\Sho_1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/12/Sho_2-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\12\Sho_2-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/12/Sho_2.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\12\Sho_2.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/12/Sho_3-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\12\Sho_3-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/12/Sho_3.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\12\Sho_3.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/12/Sho_4-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\12\Sho_4-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/12/Sho_4.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\12\Sho_4.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/12/Sho_5-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\12\Sho_5-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/12/Sho_5.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\12\Sho_5.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/12/Sho_6-768x431.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\12\Sho_6-768x431.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2022/12/Sho_6.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2022\12\Sho_6.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/04/DSC_0055.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\04\DSC_0055.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/05/0007-9K6A0068-Impression2.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\05\0007-9K6A0068-Impression2.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/20230628_181914-scaled.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\20230628_181914-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/Capture13-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\Capture13-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/Capture13.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\Capture13.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/Capture14.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\Capture14.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/Capture37-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\Capture37-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/Capture37.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\Capture37.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/Capture47-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\Capture47-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/Capture47.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\Capture47.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/Capture9-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\Capture9-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/Capture9.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\Capture9.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/Featured-image_website-1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\Featured-image_website-1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/Featured-image_website.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\Featured-image_website.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/FH_Keyart-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\FH_Keyart-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/FH_Keyart.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\FH_Keyart.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/FH_Logo_Black_6129x4207-300x206.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\FH_Logo_Black_6129x4207-300x206.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/FH_Logo_Black_6129x4207.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\FH_Logo_Black_6129x4207.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/FH_Logo_White_6129x4207-300x206.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\FH_Logo_White_6129x4207-300x206.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/FH_Logo_White_6129x4207.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\FH_Logo_White_6129x4207.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/gamepage-background-fade-bottom.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\gamepage-background-fade-bottom.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/keyart_layer-scaled.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\keyart_layer-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/Library-Logo-1280x720-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\Library-Logo-1280x720-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/Logo-Beneath-Oresa-1-300x300.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\Logo-Beneath-Oresa-1-300x300.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/Logo-Beneath-Oresa-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\Logo-Beneath-Oresa-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/Logo-Beneath-Oresa.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\Logo-Beneath-Oresa.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/SC11-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\SC11-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/SC11.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\SC11.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/SC18-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\SC18-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/SC18.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\SC18.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/SC_1-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\SC_1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/SC_1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\SC_1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/SC_2-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\SC_2-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/SC_2.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\SC_2.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/SC_3.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\SC_3.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/SC_4-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\SC_4-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/SC_4.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\SC_4.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/SC_6-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\SC_6-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/SC_6.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\SC_6.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/SC_7-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\SC_7-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/SC_7.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\SC_7.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/SC_8-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\SC_8-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/SC_8.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\SC_8.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/T2R8FK6TZ-U05ECJ141MF-5f9d9d382685-512.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\T2R8FK6TZ-U05ECJ141MF-5f9d9d382685-512.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/THUMB_FULLLAUNCH_sslogo-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\THUMB_FULLLAUNCH_sslogo-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/09/THUMB_FULLLAUNCH_sslogo.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\09\THUMB_FULLLAUNCH_sslogo.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/12/Banniere_bibliotheque-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\12\Banniere_bibliotheque-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/12/Featured-image_website.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\12\Featured-image_website.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/12/keyArt_sansLogo-2-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\12\keyArt_sansLogo-2-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/12/keyArt_sansLogo-2.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\12\keyArt_sansLogo-2.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/12/logo-13-1-300x173.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\12\logo-13-1-300x173.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/12/logo-13-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\12\logo-13-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/12/logo-13.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\12\logo-13.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/12/screen1-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\12\screen1-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/12/screen1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\12\screen1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/12/screen2-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\12\screen2-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/12/screen2.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\12\screen2.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/12/screen3.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\12\screen3.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/12/screen4-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\12\screen4-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/12/screen4.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\12\screen4.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/12/screen5-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\12\screen5-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/12/screen5.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\12\screen5.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/12/screen6-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\12\screen6-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/12/screen6.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\12\screen6.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/12/screen7-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\12\screen7-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/12/screen7.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\12\screen7.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2023/12/siteinternet_gamepage-background-fade-bottom.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2023\12\siteinternet_gamepage-background-fade-bottom.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/20240920172649_1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\20240920172649_1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/20240923180552_1-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\20240923180552_1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/20240923180552_1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\20240923180552_1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/20240923180750_1-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\20240923180750_1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/20240923180750_1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\20240923180750_1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/20240923181535_1-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\20240923181535_1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/20240923181535_1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\20240923181535_1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/20240923181647_1-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\20240923181647_1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/20240923181647_1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\20240923181647_1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/background_1920-1-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\background_1920-1-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/background_1920-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\background_1920-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/background_1920.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\background_1920.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/DungeonTycoon_2024-09-23_17-31-08-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\DungeonTycoon_2024-09-23_17-31-08-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/DungeonTycoon_2024-09-23_17-31-08.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\DungeonTycoon_2024-09-23_17-31-08.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/DungeonTycoon_2024-09-23_17-35-32-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\DungeonTycoon_2024-09-23_17-35-32-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/DungeonTycoon_2024-09-23_17-35-32.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\DungeonTycoon_2024-09-23_17-35-32.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/Featured-image_website-1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\Featured-image_website-1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/Featured-image_website.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\Featured-image_website.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/gamepage-background-fade-bottom-1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\gamepage-background-fade-bottom-1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/gamepage-background-fade-bottom.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\gamepage-background-fade-bottom.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/Library-Hero-6.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\Library-Hero-6.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/Library-Logo1-1-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\Library-Logo1-1-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/Library-Logo1-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\Library-Logo1-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/Library-Logo1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\Library-Logo1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/library_logo.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\library_logo.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/Main-Capsule-300x172.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\Main-Capsule-300x172.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/Main-Capsule.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\Main-Capsule.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/Screenshot1.1920x1080-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\Screenshot1.1920x1080-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/Screenshot1.1920x1080.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\Screenshot1.1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/Screenshot2.1920x1080-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\Screenshot2.1920x1080-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/Screenshot2.1920x1080.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\Screenshot2.1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/Screenshot3.1920x1080-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\Screenshot3.1920x1080-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/Screenshot3.1920x1080.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\Screenshot3.1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/Screenshot5.1920x1080-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\Screenshot5.1920x1080-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/Screenshot5.1920x1080.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\Screenshot5.1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/Screenshot6.1920x1080-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\Screenshot6.1920x1080-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/Screenshot6.1920x1080.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\Screenshot6.1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/Screenshot7.1920x1080.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\Screenshot7.1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/Screenshot8.1920x1080-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\Screenshot8.1920x1080-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/Screenshot8.1920x1080.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\Screenshot8.1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/simple_logo-300x90.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\simple_logo-300x90.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/01/simple_logo.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\01\simple_logo.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/03/DevelopementTree_CloseUp-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\03\DevelopementTree_CloseUp-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/03/DevelopementTree_CloseUp.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\03\DevelopementTree_CloseUp.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/03/Featured-image_website.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\03\Featured-image_website.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/03/gamepage-background-fade-bottom.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\03\gamepage-background-fade-bottom.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/03/KeyArt-V1-NoLogo-1-300x169.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\03\KeyArt-V1-NoLogo-1-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/03/KeyArt-V1-NoLogo-1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\03\KeyArt-V1-NoLogo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/03/KeyArt-V1-NoLogo.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\03\KeyArt-V1-NoLogo.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/03/Logo_Microtopia-1-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\03\Logo_Microtopia-1-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/03/Logo_Microtopia-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\03\Logo_Microtopia-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/03/Logo_Microtopia.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\03\Logo_Microtopia.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/03/MicrotopiaColonyBlueBiome.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\03\MicrotopiaColonyBlueBiome.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/03/MicrotopiaColonyDesertBiome2-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\03\MicrotopiaColonyDesertBiome2-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/03/MicrotopiaColonyDesertBiome2.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\03\MicrotopiaColonyDesertBiome2.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/03/MicrotopiaFloortileSetup-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\03\MicrotopiaFloortileSetup-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/03/MicrotopiaFloortileSetup.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\03\MicrotopiaFloortileSetup.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/03/Microtopia_UI-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\03\Microtopia_UI-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/03/Microtopia_UI.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\03\Microtopia_UI.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/bo-performance-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\bo-performance-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/bo-performance.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\bo-performance.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/Featured-image_website.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\Featured-image_website.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/gamepage-background-fade-bottom.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\gamepage-background-fade-bottom.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/gaspars-nominees-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\gaspars-nominees-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/gaspars-nominees.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\gaspars-nominees.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/HQ_Logo_Goblinz_Publishing_Green-1024x576.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\HQ_Logo_Goblinz_Publishing_Green-1024x576.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/HQ_Logo_Goblinz_Publishing_Green-1536x864.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\HQ_Logo_Goblinz_Publishing_Green-1536x864.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/HQ_Logo_Goblinz_Publishing_Green-2048x1152.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\HQ_Logo_Goblinz_Publishing_Green-2048x1152.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/HQ_Logo_Goblinz_Publishing_Green-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\HQ_Logo_Goblinz_Publishing_Green-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/HQ_Logo_Goblinz_Publishing_Green-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\HQ_Logo_Goblinz_Publishing_Green-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/HQ_Logo_Goblinz_Studio_Green-1024x576.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\HQ_Logo_Goblinz_Studio_Green-1024x576.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/HQ_Logo_Goblinz_Studio_Green-1536x864.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\HQ_Logo_Goblinz_Studio_Green-1536x864.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/HQ_Logo_Goblinz_Studio_Green-2048x1152.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\HQ_Logo_Goblinz_Studio_Green-2048x1152.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/HQ_Logo_Goblinz_Studio_Green-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\HQ_Logo_Goblinz_Studio_Green-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/HQ_Logo_Goblinz_Studio_Green-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\HQ_Logo_Goblinz_Studio_Green-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/LOGOS.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\LOGOS.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/Logo_Goblinz_studio_Black-1024x490.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\Logo_Goblinz_studio_Black-1024x490.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/marketing-campaigns-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\marketing-campaigns-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/marketing-campaigns.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\marketing-campaigns.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/medium-office-june.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\medium-office-june.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/preprod-june-2004-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\preprod-june-2004-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/preprod-june-2004.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\preprod-june-2004.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/production-planning-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\production-planning-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/production-planning.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\production-planning.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/reviews-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\reviews-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/reviews.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\reviews.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/TheExecutive_KeyARt-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\TheExecutive_KeyARt-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/TheExecutive_KeyARt.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\TheExecutive_KeyARt.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/TheExecutive_KeyArt_NoLogo-1-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\TheExecutive_KeyArt_NoLogo-1-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/TheExecutive_KeyArt_NoLogo-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\TheExecutive_KeyArt_NoLogo-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/TheExecutive_KeyArt_NoLogo.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\TheExecutive_KeyArt_NoLogo.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/TheExecutive_Logo-1-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\TheExecutive_Logo-1-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/05/TheExecutive_Logo-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\05\TheExecutive_Logo-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/06/11-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\06\11-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/06/11.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\06\11.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/06/2.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\06\2.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/06/3-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\06\3-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/06/3.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\06\3.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/06/5-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\06\5-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/06/5.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\06\5.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/06/6-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\06\6-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/06/6.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\06\6.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/06/dots_Featured-image_website.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\06\dots_Featured-image_website.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/06/Dots_KeyArt_Capsule_NoTitle-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\06\Dots_KeyArt_Capsule_NoTitle-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/06/Dots_KeyArt_Capsule_NoTitle.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\06\Dots_KeyArt_Capsule_NoTitle.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/06/DOTS_TitleLogo_Alpha-300x224.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\06\DOTS_TitleLogo_Alpha-300x224.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/06/DOTS_TitleLogo_Alpha.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\06\DOTS_TitleLogo_Alpha.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/06/Dots_Title_RedGradients-300x235.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\06\Dots_Title_RedGradients-300x235.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/06/Dots_Title_RedGradients.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\06\Dots_Title_RedGradients.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/06/gamepage-background-fade-bottom.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\06\gamepage-background-fade-bottom.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/08/gamepage-background-fade-bottom_SH.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\08\gamepage-background-fade-bottom_SH.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/08/library_hero.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\08\library_hero.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/08/logo-1-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\08\logo-1-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/08/logo-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\08\logo-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/08/logo.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\08\logo.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/08/Screenshot-11.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\08\Screenshot-11.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/08/Screenshot-14-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\08\Screenshot-14-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/08/Screenshot-14.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\08\Screenshot-14.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/08/Screenshot-15-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\08\Screenshot-15-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/08/Screenshot-15.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\08\Screenshot-15.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/08/Screenshot-16-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\08\Screenshot-16-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/08/Screenshot-16.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\08\Screenshot-16.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/08/Screenshot-2-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\08\Screenshot-2-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/08/Screenshot-2.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\08\Screenshot-2.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/08/Screenshot-4-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\08\Screenshot-4-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/08/Screenshot-4.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\08\Screenshot-4.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/08/Screenshot-5-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\08\Screenshot-5-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/08/Screenshot-5.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\08\Screenshot-5.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/08/Screenshot-6-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\08\Screenshot-6-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/08/Screenshot-6.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\08\Screenshot-6.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/08/Screenshot-8-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\08\Screenshot-8-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/08/Screenshot-8.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\08\Screenshot-8.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/08/SH-Featured.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\08\SH-Featured.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/09/Audrey-1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\09\Audrey-1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/09/Featured-image_website.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\09\Featured-image_website.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/09/gamepage-background-fade-bottom-1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\09\gamepage-background-fade-bottom-1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/09/neongarten_Library-Hero_3840x124.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\09\neongarten_Library-Hero_3840x124.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/09/neongarten_Library-Logo_1280x720-2-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\09\neongarten_Library-Logo_1280x720-2-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/09/neongarten_Library-Logo_1280x720-2.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\09\neongarten_Library-Logo_1280x720-2.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/09/neongarten_Library-Logo_1280x720.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\09\neongarten_Library-Logo_1280x720.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/09/neongarten_Page-Background-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\09\neongarten_Page-Background-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/09/neongarten_Page-Background.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\09\neongarten_Page-Background.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/09/ss_35ffffc71133dcf442dc513bfc39e70f84e738b3.1920x1080-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\09\ss_35ffffc71133dcf442dc513bfc39e70f84e738b3.1920x1080-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/09/ss_35ffffc71133dcf442dc513bfc39e70f84e738b3.1920x1080.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\09\ss_35ffffc71133dcf442dc513bfc39e70f84e738b3.1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/09/ss_ac8b3fe89735caf7a5f8435394e0b7f0ba552097.1920x1080-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\09\ss_ac8b3fe89735caf7a5f8435394e0b7f0ba552097.1920x1080-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/09/ss_ac8b3fe89735caf7a5f8435394e0b7f0ba552097.1920x1080.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\09\ss_ac8b3fe89735caf7a5f8435394e0b7f0ba552097.1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/09/ss_cf893f402c971c58d284275079f9d62e146aa722.1920x1080-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\09\ss_cf893f402c971c58d284275079f9d62e146aa722.1920x1080-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/09/ss_cf893f402c971c58d284275079f9d62e146aa722.1920x1080.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\09\ss_cf893f402c971c58d284275079f9d62e146aa722.1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/09/ss_defd121cb16036830eef644d91893464eeed18ed.1920x1080-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\09\ss_defd121cb16036830eef644d91893464eeed18ed.1920x1080-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/09/ss_defd121cb16036830eef644d91893464eeed18ed.1920x1080.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\09\ss_defd121cb16036830eef644d91893464eeed18ed.1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/09/ss_f46a7b6ed00b9c989ead45fa5c81763b39b2ddab.1920x1080-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\09\ss_f46a7b6ed00b9c989ead45fa5c81763b39b2ddab.1920x1080-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/09/ss_f46a7b6ed00b9c989ead45fa5c81763b39b2ddab.1920x1080.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\09\ss_f46a7b6ed00b9c989ead45fa5c81763b39b2ddab.1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/09/ss_f8e6413f0dd85fce2fa3549f35077638580a95e3.1920x1080.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\09\ss_f8e6413f0dd85fce2fa3549f35077638580a95e3.1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/09/ss_fe5cfe39ae9a5555d4f2ccff21674ca4aace8411.1920x1080-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\09\ss_fe5cfe39ae9a5555d4f2ccff21674ca4aace8411.1920x1080-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/09/ss_fe5cfe39ae9a5555d4f2ccff21674ca4aace8411.1920x1080.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\09\ss_fe5cfe39ae9a5555d4f2ccff21674ca4aace8411.1920x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/11/1SiW_Keyart_16-9-scaled.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\11\1SiW_Keyart_16-9-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/11/Featured-image_website-1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\11\Featured-image_website-1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/11/gamepage-background-fade-bottom.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\11\gamepage-background-fade-bottom.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/11/nSiW_KeyArtMain-300x156.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\11\nSiW_KeyArtMain-300x156.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/11/nSiW_KeyArtMain.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\11\nSiW_KeyArtMain.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/11/nSiW_Library-Logo-on-top-of-Library-Hero-1-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\11\nSiW_Library-Logo-on-top-of-Library-Hero-1-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/11/nSiW_Library-Logo-on-top-of-Library-Hero-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\11\nSiW_Library-Logo-on-top-of-Library-Hero-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/11/nSiW_Library-Logo-on-top-of-Library-Hero.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\11\nSiW_Library-Logo-on-top-of-Library-Hero.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/11/SiW_SCREENSHOT_1-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\11\SiW_SCREENSHOT_1-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/11/SiW_SCREENSHOT_1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\11\SiW_SCREENSHOT_1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/11/SiW_SCREENSHOT_2-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\11\SiW_SCREENSHOT_2-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/11/SiW_SCREENSHOT_2.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\11\SiW_SCREENSHOT_2.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/11/SiW_SCREENSHOT_3-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\11\SiW_SCREENSHOT_3-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/11/SiW_SCREENSHOT_3.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\11\SiW_SCREENSHOT_3.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/11/SiW_SCREENSHOT_4-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\11\SiW_SCREENSHOT_4-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/11/SiW_SCREENSHOT_4.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\11\SiW_SCREENSHOT_4.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/11/SiW_SCREENSHOT_5-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\11\SiW_SCREENSHOT_5-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/11/SiW_SCREENSHOT_5.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\11\SiW_SCREENSHOT_5.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/11/SiW_SCREENSHOT_6-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\11\SiW_SCREENSHOT_6-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2024/11/SiW_SCREENSHOT_6.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2024\11\SiW_SCREENSHOT_6.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/02/boss_fight_2_b-768x432.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\02\boss_fight_2_b-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/02/boss_fight_2_b.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\02\boss_fight_2_b.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/02/Featured-image_website.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\02\Featured-image_website.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/02/gamepage-background-fade-bottom.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\02\gamepage-background-fade-bottom.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/02/IMG_6374.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\02\IMG_6374.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/02/knightica1920x1080_nologo-1-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\02\knightica1920x1080_nologo-1-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/02/knightica1920x1080_nologo-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\02\knightica1920x1080_nologo-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/02/knightica1920x1080_nologo.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\02\knightica1920x1080_nologo.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/02/Screen_033_0000.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\02\Screen_033_0000.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/02/Screen_059_0000-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\02\Screen_059_0000-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/02/Screen_059_0000.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\02\Screen_059_0000.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/02/Screen_064_0000-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\02\Screen_064_0000-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/02/Screen_064_0000.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\02\Screen_064_0000.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/02/Screen_069_0000-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\02\Screen_069_0000-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/02/Screen_069_0000.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\02\Screen_069_0000.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/02/Screen_071_0000-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\02\Screen_071_0000-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/02/Screen_071_0000.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\02\Screen_071_0000.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/02/Screen_076_0000-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\02\Screen_076_0000-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/02/Screen_076_0000.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\02\Screen_076_0000.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/02/titlelogo-1-300x113.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\02\titlelogo-1-300x113.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/02/titlelogo-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\02\titlelogo-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/02/titlelogo.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\02\titlelogo.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/04/Photo-de-profil-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\04\Photo-de-profil-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/04/Photo_Camille-e1745575828758.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\04\Photo_Camille-e1745575828758.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/06/Background_Vampire-300x169.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\06\Background_Vampire-300x169.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/06/Background_Vampire.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\06\Background_Vampire.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/06/DOD_Logo-1-300x138.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\06\DOD_Logo-1-300x138.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/06/DOD_Logo-1.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\06\DOD_Logo-1.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/06/DOD_Logo.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\06\DOD_Logo.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/06/Featured-image_website.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\06\Featured-image_website.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/06/gamepage-background-fade-bottom-1.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\06\gamepage-background-fade-bottom-1.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/06/IMG20250605162638-1-scaled.jpg
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\06\IMG20250605162638-1-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/06/Screenshot-2025-06-09-12-49-14-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\06\Screenshot-2025-06-09-12-49-14-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/06/Screenshot-2025-06-09-12-49-14.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\06\Screenshot-2025-06-09-12-49-14.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/06/Screenshot-2025-06-09-13-01-51-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\06\Screenshot-2025-06-09-13-01-51-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/06/Screenshot-2025-06-09-13-01-51.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\06\Screenshot-2025-06-09-13-01-51.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/06/Screenshot-2025-06-09-13-10-15-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\06\Screenshot-2025-06-09-13-10-15-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/06/Screenshot-2025-06-09-13-10-15.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\06\Screenshot-2025-06-09-13-10-15.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/06/Screenshot-2025-06-09-13-15-17-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\06\Screenshot-2025-06-09-13-15-17-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/06/Screenshot-2025-06-09-13-15-17.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\06\Screenshot-2025-06-09-13-15-17.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/06/Screenshot-2025-06-09-13-19-15-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\06\Screenshot-2025-06-09-13-19-15-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/06/Screenshot-2025-06-09-13-19-15.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\06\Screenshot-2025-06-09-13-19-15.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/06/Screenshot-2025-06-09-13-21-29-768x432.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\06\Screenshot-2025-06-09-13-21-29-768x432.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/06/Screenshot-2025-06-09-13-21-29.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\06\Screenshot-2025-06-09-13-21-29.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-content/uploads/2025/06/Screenshot-2025-06-09-13-23-37.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-content\uploads\2025\06\Screenshot-2025-06-09-13-23-37.png
+Content Type: image/png
+
+Uri: https://goblinzstudio.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8.10
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://goblinzstudio.com/wp-includes/images/spinner.gif
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-includes\images\spinner.gif
+Content Type: image/gif
+
+Uri: https://goblinzstudio.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://goblinzstudio.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://goblinzstudio.com/wp-includes/js/wp-embed.min.js?ver=5.8.10
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://goblinzstudio.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://goblinzstudio.com/wp-json/
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fa-long-way-down%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-70
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fa-long-way-down%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-71
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fas-far-as-the-eye%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-64
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fas-far-as-the-eye%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-65
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fbanners-of-ruin%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-58
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fbanners-of-ruin%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-59
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fbeneath-oresa%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fbeneath-oresa%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fday-of-the-shell%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fday-of-the-shell%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fdecks-of-the-damned%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fdecks-of-the-damned%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fdefend-the-rook%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-52
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fdefend-the-rook%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-53
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fdiluvian-winds%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-54
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fdiluvian-winds%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-55
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fdungeon-rushers%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-78
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fdungeon-rushers%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-79
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fdungeon-tycoon%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fdungeon-tycoon%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Ffantastic-haven%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Ffantastic-haven%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fheros-hour%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fheros-hour%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Firisandthegiant%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-68
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Firisandthegiant%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-69
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fknightica%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fknightica%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Flegend-of-keepers%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-66
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Flegend-of-keepers%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-67
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fmicrotopia%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fmicrotopia%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fmini-settlers%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fmini-settlers%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fneongarten%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fneongarten%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fneurodeck%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-60
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fneurodeck%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-61
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Foaken%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-50
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Foaken%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-51
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Foverboss%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Foverboss%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fozymandias%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fozymandias%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fracine%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fracine%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Frobothorium%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-76
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Frobothorium%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-77
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fsandwalkers%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fsandwalkers%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fseeds-of-resilience%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-74
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fseeds-of-resilience%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-75
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fshogun-showdown%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fshogun-showdown%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fsigma-theory%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-72
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fsigma-theory%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-73
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fsmash-it-wild%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fsmash-it-wild%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fsnowtopia-game%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-62
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fsnowtopia-game%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-63
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fsol-cesto%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fsol-cesto%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fspin-hero%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fspin-hero%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fsynergy%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fsynergy%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fterraformers%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-56
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fterraformers%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-57
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fthe-executive-a-movie-industry-tycoon%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgame%2Fthe-executive-a-movie-industry-tycoon%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgoblinz-testers-club%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fgoblinz-testers-club%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fpresskit%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fpresskit%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fprivacy-policy%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-80
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fprivacy-policy%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-81
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fpublishing%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fpublishing%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fteam%2F
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://goblinzstudio.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgoblinzstudio.com%2Fteam%2F&format=xml
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://goblinzstudio.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://sibforms.com/forms/end-form/build/main.js
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\forms\end-form\build\main.js
+Content Type: application/javascript
+
+Uri: https://sibforms.com/forms/end-form/build/sib-styles.css
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\forms\end-form\build\sib-styles.css
+Content Type: text/css
+
+Uri: https://static.brevo.com/images/flags.png
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\images\flags.webp
+Content Type: image/webp
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-85177781-11
+File Name: C:\Downloaded Web Sites\goblinzstudio.com\gtag\js
+Content Type: application/javascript
+
